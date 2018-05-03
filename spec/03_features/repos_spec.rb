@@ -6,7 +6,7 @@ describe "Features" do
   #    visit '/auth?code=20'
   #    expect(page).to have_content 'your_username'
   #  end
-  end
+  #end
 
   describe "visiting root" do
     before :each do
